@@ -1,2 +1,2 @@
-# battleship
-Reupload of the Battleship project for CSC335.
+# team-project
+Add your name to this file.
